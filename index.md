@@ -6,7 +6,7 @@
 
 ---
 #### [DoorDash Data Analysis in Excel](/files/Logan Marley DoorDash Excel Project.pdf)
-<img src="images/DoorDashimage.jpg?raw=true"/>
+<img src="images/DoorDashimage.jpeg?raw=true"/>
 For this project, I analyzed a data set using Excel for Brazilian food delivery company, iFood (similar to DoorDash), to find key takeaways that could help improve marketing campaigns moving forward. 
 
 ---
