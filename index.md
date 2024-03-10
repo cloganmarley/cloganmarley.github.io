@@ -4,10 +4,6 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
 #### [DoorDash Data Analysis in Excel](/files/Logan Marley DoorDash Excel Project.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
